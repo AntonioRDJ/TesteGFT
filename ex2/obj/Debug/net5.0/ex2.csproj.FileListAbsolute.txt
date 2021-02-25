@@ -1,0 +1,16 @@
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\obj\Debug\net5.0\ex2.csprojAssemblyReference.cache
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\obj\Debug\net5.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\obj\Debug\net5.0\ex2.AssemblyInfoInputs.cache
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\obj\Debug\net5.0\ex2.AssemblyInfo.cs
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\obj\Debug\net5.0\ex2.csproj.CoreCompileInputs.cache
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\bin\Debug\net5.0\ex2.exe
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\bin\Debug\net5.0\ex2.deps.json
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\bin\Debug\net5.0\ex2.runtimeconfig.json
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\bin\Debug\net5.0\ex2.runtimeconfig.dev.json
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\bin\Debug\net5.0\ex2.dll
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\bin\Debug\net5.0\ref\ex2.dll
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\bin\Debug\net5.0\ex2.pdb
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\obj\Debug\net5.0\ex2.dll
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\obj\Debug\net5.0\ref\ex2.dll
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\obj\Debug\net5.0\ex2.pdb
+E:\Users\Junior\Documents\Projeto\TesteGFT\ex2\obj\Debug\net5.0\ex2.genruntimeconfig.cache
